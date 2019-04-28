@@ -6,5 +6,8 @@
   "repository": "git@github.com:OldBigBuddha/HelloWorld-expressjs.git",
   "author": "OldBigBuddha <develoment@oldbigbuddha.net>",
   "license": "Apache-2.0",
-  "private": false
+  "private": false,
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
