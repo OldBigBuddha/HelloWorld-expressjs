@@ -1,0 +1,10 @@
+{
+  "name": "helloworld",
+  "version": "1.0.0",
+  "description": "Hello World",
+  "main": "app.js",
+  "repository": "git@github.com:OldBigBuddha/HelloWorld-expressjs.git",
+  "author": "OldBigBuddha <develoment@oldbigbuddha.net>",
+  "license": "Apache-2.0",
+  "private": false
+}
